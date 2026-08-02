@@ -1,8 +1,28 @@
-# Roofers.io — Find top-rated roofing contractors across 356+ cities in North America.
+# Roofers.io
 
 > roofers.io
 
-## Related\n- budgetroofers.com\n- strataroofing.ca\n- stratapropertyservices.com
+North America's roofing contractor hub. Find verified roofers across 356+ cities in Canada and the United States. Residential, commercial, and industrial roofing.
+
+## Services
+
+- Residential Roof Replacement
+- Commercial Flat Roofing
+- Industrial Roofing
+- Strata & Multi-Family Roofing
+- Emergency Roof Repair
+- Metal Roofing
+
+## Coverage
+
+356+ cities across Canada and the USA.
+
+## Related
+
+- budgetroofers.com — affordable roofing contractors
+- strataroofing.ca — strata roofing BC
+- stratapropertyservices.com — strata property services BC
+- steelstudcontractors.com — commercial construction network
 
 ## Contact
 
