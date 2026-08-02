@@ -1,8 +1,8 @@
 # Roofers.io
 
-> roofers.io
+> roofers.io — North America's roofing contractor hub. 356+ cities in Canada and the USA.
 
-North America's roofing contractor hub. Find verified roofers across 356+ cities in Canada and the United States. Residential, commercial, and industrial roofing.
+Find verified roofers across 356+ cities. Residential, commercial, and industrial roofing.
 
 ## Services
 
@@ -17,12 +17,22 @@ North America's roofing contractor hub. Find verified roofers across 356+ cities
 
 356+ cities across Canada and the USA.
 
-## Related
+## Powered By
 
-- budgetroofers.com — affordable roofing contractors
-- strataroofing.ca — strata roofing BC
-- stratapropertyservices.com — strata property services BC
-- steelstudcontractors.com — commercial construction network
+- **Industry Army Marketing** — industryarmymarketing.com — SEO and digital marketing for trade contractors
+- **BuildersHaus** — buildershaus.com — Premium construction contractor network
+
+## Construction Network
+
+- steelstudcontractors.com — #1 steel stud framing, 853+ cities
+- rambowalls.com — drywall, ceilings and steel stud framing BC
+- tenantimprovementcontractors.com — TI contractor directory, 135+ cities
+- barriergates.ca — barrier gates and security fencing Canada
+- lsfencingandmetalwork.com — industrial chain link and barrier gates BC
+- stratapropertyservices.com — 13 trade divisions, Lower Mainland BC
+- roofers.io — roofing contractors 356+ cities
+- budgetroofers.com — affordable roofing North America
+- framers.io — framing contractor network
 
 ## Contact
 
